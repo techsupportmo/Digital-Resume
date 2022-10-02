@@ -222,3 +222,13 @@ li{
     padding: 1rem 1rem;
     vertical-align: middle;
   }
+
+.left
+{
+  float: left;
+}
+
+.right
+{
+  float: right;
+}
